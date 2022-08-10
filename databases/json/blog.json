@@ -1,0 +1,16 @@
+{
+    "name": "blog",
+    "id": "",
+    "type": {
+        "index": "",
+        "name": "",
+        "auther": "",
+        "is_delete": ""
+    },
+    "datetime": "",
+    "state": "new/update",
+    "info": {
+        "type": "md/html"
+    }
+
+}
